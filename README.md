@@ -1,6 +1,7 @@
 # 🌱 AgriPilot AI — Autonomous Agronomic Crop Advisory & Disease Diagnostics Platform
 
 > **Hackathon Theme:** AI for Smart Agriculture  
+> **Live Production URL:** [https://agripilot-ai-1-rwhy.onrender.com](https://agripilot-ai-1-rwhy.onrender.com)  
 > **Core Value Proposition:** *"Protect your crops. Optimize every input. Harvest higher yields."*
 
 ---

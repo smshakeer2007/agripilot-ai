@@ -1,5 +1,6 @@
 # 🏆 AgriPilot AI — Hackathon Presentation & Judges Guide
 ### **Theme:** AI for Smart Agriculture
+### **Live Application URL:** [https://agripilot-ai-1-rwhy.onrender.com](https://agripilot-ai-1-rwhy.onrender.com)
 ### **Tagline:** *"Protect your crops. Optimize every input. Harvest higher yields."*
 
 ---
@@ -70,7 +71,7 @@ AgriPilot AI replaces trial-and-error farming with an automated **5-Stage Agrono
 ---
 
 ### ⏱️ Minute 0:00 – 1:00 | Introduction & Problem Hook
-- **Show Screen:** Landing Page (`/`).
+- **Show Screen:** Landing Page ([https://agripilot-ai-1-rwhy.onrender.com](https://agripilot-ai-1-rwhy.onrender.com)).
 - **Say:**
   > *"Good morning judges. Agriculture feeds the planet, yet farmers still rely on guesswork to diagnose crop diseases. Here is AgriPilot AI — our autonomous agronomic intelligence suite."*
 - **Action:** Point out the clean AgTech aesthetic, dark forest green palette, and the problem statistics on the landing page.
@@ -209,4 +210,5 @@ AgriPilot AI replaces trial-and-error farming with an automated **5-Stage Agrono
 ---
 
 *AgriPilot AI is built, tested, and deployed for the Hackathon.*  
-*Repository: [https://github.com/smshakeer2007/agripilot-ai](https://github.com/smshakeer2007/agripilot-ai)*
+*🌐 Live Production URL: [https://agripilot-ai-1-rwhy.onrender.com](https://agripilot-ai-1-rwhy.onrender.com)*  
+*📦 GitHub Repository: [https://github.com/smshakeer2007/agripilot-ai](https://github.com/smshakeer2007/agripilot-ai)*
