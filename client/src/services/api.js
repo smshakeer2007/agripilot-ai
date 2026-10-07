@@ -24,7 +24,11 @@ api.interceptors.request.use((config) => {
 api.interceptors.response.use(
   (response) => response.data,
   (error) => {
-    const message = error.response?.data?.message || 'Network or agricultural advisor service error.';
+    const data = error.response?.data;
+    let message = data?.message || 'Network or agricultural advisor service error.';
+    if (data?.errors && Array.isArray(data.errors) && data.errors.length > 0) {
+      message = data.errors.map((e) => e.message).join('. ');
+    }
     return Promise.reject(new Error(message));
   }
 );
