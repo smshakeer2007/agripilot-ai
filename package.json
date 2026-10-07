@@ -1,0 +1,12 @@
+{
+  "name": "agripilot-ai-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AgriPilot AI - Production Full-Stack Smart Agriculture Advisory Platform",
+  "scripts": {
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client",
+    "build:client": "npm run build --prefix client",
+    "start": "node server/server.js"
+  }
+}
